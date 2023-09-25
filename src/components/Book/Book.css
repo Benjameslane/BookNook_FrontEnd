@@ -1,0 +1,16 @@
+.book-container {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.book-image {
+    width: 50px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.book-details {
+    flex-grow: 1;
+}
